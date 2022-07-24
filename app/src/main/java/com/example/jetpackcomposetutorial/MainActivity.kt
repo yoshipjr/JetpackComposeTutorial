@@ -75,6 +75,6 @@ fun MessageCard(msg: com.example.jetpackcomposetutorial.Message) {
 @Composable
 fun PreviewMessageCard() {
     JetpackComposeTutorialTheme {
-        MessageCard(Message("Collegue", "hello"))
+        MessageCard(Message("Colleague", "hello"))
     }
 }
